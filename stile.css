@@ -25,3 +25,43 @@ main{
 p{
     text-align:center;
 }
+.prima-riga img{
+    float: left;
+    width:77px;
+    height:77px;
+    margin-right:10px;
+}
+.prima-riga{
+    color:white;
+    background-color:black;
+    float: left;
+    width: 300px;
+    height: 80px;
+    margin: 20px;
+    margin-top: 40px;
+    border-style: outset;
+    border-color: rgb(0, 0, 0);
+}
+.seconda-riga img{
+    float: left;
+    width:77px;
+    height:77px;
+    margin-right:10px;
+    
+}
+.seconda-riga{
+    color:white;
+    background-color:black;
+    float: left;
+    width: 300px;
+    height: 80px;
+    margin: 20px;
+    margin-top: 20px;
+    border-style: outset;
+    border-color: rgb(0, 0, 0);
+    
+
+}
+.email{
+    color: rgb(92, 145, 242);
+}
